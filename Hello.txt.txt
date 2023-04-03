@@ -6,3 +6,7 @@ this is the five file
 this is the six file 
 this is the seven file 
 this is the eight file
+
+
+
+THIS IS THE NEW EDIT MODE
